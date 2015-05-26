@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>moduletest</name>
+	<displayName><![CDATA[Module pour ECF]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Module pour Erwan]]></description>
+	<author><![CDATA[Anthony]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous certain de vouloir désinstaller le module?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
